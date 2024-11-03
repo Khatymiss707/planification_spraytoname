@@ -24,8 +24,12 @@ Inspiration direct: [Lien Lichtfaktor](https://lichtfaktor.com/en/portfolio/luma
 ![schema_programmation](https://github.com/user-attachments/assets/b20b1d6f-6f2e-4ff8-86b7-4fa0b0b1c458) </br></br>
 
 ## SCHÉMA CONNEXIONS
+![schema_connexion (1)](https://github.com/user-attachments/assets/d1748a18-3744-40ca-9fb9-c8e1e22264b1)
 
 ## PLANTATION
+![plantation](https://github.com/user-attachments/assets/51418513-db57-47ab-b52b-a96e5ea1ecae)
+![plantation_moi](https://github.com/user-attachments/assets/84880a1a-068c-4a0b-95db-1ef59c9234aa)
+
 
 ## SIMULATION
 
