@@ -23,6 +23,23 @@ Inspiration direct: [Lien Lichtfaktor](https://lichtfaktor.com/en/portfolio/luma
 ## DÉROULEMENT INTÉRACTIF 
 ![schema_programmation](https://github.com/user-attachments/assets/b20b1d6f-6f2e-4ff8-86b7-4fa0b0b1c458) </br></br>
 
+## Outils/Logiciels techniques 
+- Arduino
+- QLC+
+- Plugdata
+- Touch Designer (Ui interface)
+- Spotify (pour la musique)
+- OBS Studio
+- Caméra avec connecteur USB
+- QR CODE Generator (Adobe)
+- Écran tactile infrarouge 2mx4m
+
+Élément Bonbonne de peinture artificiel
+- Capteurs de distance laser (EDS-C – Capteur de distance)
+- Laser infrarouge
+- Capteurs LED
+- Boutons implimentés pour l'activer
+
 ## SCHÉMA CONNEXIONS
 ![schema_connexion (1)](https://github.com/user-attachments/assets/d1748a18-3744-40ca-9fb9-c8e1e22264b1)
 
@@ -41,3 +58,31 @@ Inspiration direct: [Lien Lichtfaktor](https://lichtfaktor.com/en/portfolio/luma
 ![schemainteractif01](https://github.com/user-attachments/assets/b98bf4c4-b83f-4b76-b2ff-e800ecc5fabd)
 ![schemainteractif02](https://github.com/user-attachments/assets/3f96d39e-cca5-499f-99ac-e65bf78fec21)
 ![schemainteractif03](https://github.com/user-attachments/assets/926baa48-e976-4b61-aa1d-18d81e0c5e1d)
+
+## DEVIS TECHNIQUES
+
+Fournis par l'artiste (moi)
+| Item              | Quantité |
+| :---------------- | :------: |
+| Appareil Photo      | x1 |
+| Lentille caméra     | x1 |
+| Trépied de caméra   | x1 |
+| Carte SIM 1TB       | x1 |
+| Extensions cables USB  | x2 |
+| Ordinateur portable | x1 |
+| Tapis décoratif     | x1 |
+| Écran infrarouge 2Mx4M | x1 |
+| Cable Ethernet 50'     | x1 |
+| Bombes Aérosol     | x6 |
+| Lampe USB          | x1 |
+
+Fournis par la production/l'exposition
+| Item              | Quantité |
+| :---------------- | :------: |
+| Haut-Parleurs         | x2 |
+| Projecteur de lumière | x3 |
+| Cables DXN            | x3 |
+| Table                 | x1 |
+| Caisses de lait ou objet semblable | x1 |
+| Support pour bombes Aérosols | x1 |
+
