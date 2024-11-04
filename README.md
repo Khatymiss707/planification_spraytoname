@@ -31,6 +31,7 @@ Inspiration direct: [Lien Lichtfaktor](https://lichtfaktor.com/en/portfolio/luma
 ![plantation_moi](https://github.com/user-attachments/assets/84880a1a-068c-4a0b-95db-1ef59c9234aa)
 
 ## SIMULATION
+![schema_mise_en_scene 1](https://github.com/user-attachments/assets/938be03a-7034-480c-9dd5-43f1e9982148)
 
 ## SCÉNARIMAGE
 ![schemaanimationveille](https://github.com/user-attachments/assets/55ba029f-57d9-4cc5-9764-f144a0e8894f)
